@@ -17,7 +17,7 @@ RC-GATE-002, RC-GATE-003, RC-NFR-001 (see `EV_PnC_Consent_docs`, specs from `roa
 
 ## Tech stack
 
-Kotlin, Spring Boot 3 (or Ktor), Redis
+Java, Spring Boot 4, Redis
 
 ## Infrastructure (BOM)
 
